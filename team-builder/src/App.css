@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+
+.FormCard{
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.Cards{
+  display:flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+}
+
+
+
+
+
